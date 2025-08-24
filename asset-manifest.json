@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/titan-plitka/static/css/main.0abec688.css",
-    "main.js": "/titan-plitka/static/js/main.a9a3149d.js",
+    "main.js": "/titan-plitka/static/js/main.dc5f59fd.js",
     "index.html": "/titan-plitka/index.html",
     "main.0abec688.css.map": "/titan-plitka/static/css/main.0abec688.css.map",
-    "main.a9a3149d.js.map": "/titan-plitka/static/js/main.a9a3149d.js.map"
+    "main.dc5f59fd.js.map": "/titan-plitka/static/js/main.dc5f59fd.js.map"
   },
   "entrypoints": [
     "static/css/main.0abec688.css",
-    "static/js/main.a9a3149d.js"
+    "static/js/main.dc5f59fd.js"
   ]
 }
